@@ -20,6 +20,6 @@ public class Reverse {
 			System.out.println("La cadena recorrida es:"+cadena[u]);
 		}
 	}
-	
+	 
 
 }

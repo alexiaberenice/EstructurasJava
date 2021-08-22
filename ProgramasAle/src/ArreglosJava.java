@@ -23,7 +23,7 @@ public static void main (String[] args) {
 		for(int u=0;u<=dosD.length;u++) {
 			System.out.println("Numero en la subposición "+u+" es: "+dosD[j][u]);
 		}
-		
+		 
 	}
 	
 }
