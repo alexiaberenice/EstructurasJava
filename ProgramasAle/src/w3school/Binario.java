@@ -33,4 +33,5 @@ public class Binario {
 		   System.out.print("\n"); 
 	}
 
+	
 }
